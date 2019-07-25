@@ -5,3 +5,8 @@ char * ip ;
         lr_output_message("当前虚拟用户使用的IP为： %s", ip);
     else
         lr_output_message("[enable IP spoofing ]选项没有被启用！");
+
+
+
+
+123
