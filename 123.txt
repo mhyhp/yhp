@@ -1,14 +1,14 @@
-¸ÅÄî×Ü½á
-1.Èí¼þ²âÊÔÁ÷³Ì
-2.windws/linuxÏµÍ³ÖÐ²âÊÔ»·¾³´î½¨
-3.²âÊÔÓÃÀýµÄÒªËØ,±àÐ´²âÊÔÓÃÀý·½·¨ÒÔ¼°ÈçºÎ±£Ö¤²âÊÔÓÃÀýµÄ¸²¸ÇÂÊÓëÕýÈ·ÐÔ
-4.¼òÊö²âÊÔ¹¤×÷ÖÐ½Ó´¥¹ýµÄÊý¾Ý¿â
-5.²âÊÔ·½°¸£¬²âÊÔ¼Æ»®£¬ÎÄµµÖÐµÄÄÚÈÝ
-6.pythonÖÐstring³£ÓÃ·½·¨ÓÐÄÄÐ©
-7.pythonÖÐÔª×éºÏÁÐ±íµÄÇø±ð
-8½Ó¿Ú²âÊÔÈçºÎ×öµÄ
+æ¦‚å¿µæ€»ç»“
+1.è½¯ä»¶æµ‹è¯•æµç¨‹
+2.windws/linuxç³»ç»Ÿä¸­æµ‹è¯•çŽ¯å¢ƒæ­å»º
+3.æµ‹è¯•ç”¨ä¾‹çš„è¦ç´ ,ç¼–å†™æµ‹è¯•ç”¨ä¾‹æ–¹æ³•ä»¥åŠå¦‚ä½•ä¿è¯æµ‹è¯•ç”¨ä¾‹çš„è¦†ç›–çŽ‡ä¸Žæ­£ç¡®æ€§
+4.ç®€è¿°æµ‹è¯•å·¥ä½œä¸­æŽ¥è§¦è¿‡çš„æ•°æ®åº“
+5.æµ‹è¯•æ–¹æ¡ˆï¼Œæµ‹è¯•è®¡åˆ’ï¼Œæ–‡æ¡£ä¸­çš„å†…å®¹
+6.pythonä¸­stringå¸¸ç”¨æ–¹æ³•æœ‰å“ªäº›
+7.pythonä¸­å…ƒç»„åˆåˆ—è¡¨çš„åŒºåˆ«
+8æŽ¥å£æµ‹è¯•å¦‚ä½•åšçš„
 
-
+123456
 
 https://www.cnblogs.com/fnng/archive/2013/03/02/2940284.html
 
@@ -17,22 +17,22 @@ http://business.laiketui.com/LKT/index.php?module=AdminLogin
 laiketui
 
 
-1¼òÊöÍ¨¹ýpythonÈçºÎ×ö½Ó¿ÚµÄ»Ø¹é²âÊÔ
+1ç®€è¿°é€šè¿‡pythonå¦‚ä½•åšæŽ¥å£çš„å›žå½’æµ‹è¯•
 
-2.¼òÊöÍ¨¹ýpythonÈçºÎ×ö×Ô¶¯»¯²âÊÔ
+2.ç®€è¿°é€šè¿‡pythonå¦‚ä½•åšè‡ªåŠ¨åŒ–æµ‹è¯•
 
-3.×Ü½álinuxÏµÍ³ÖÐ³£ÓÃµÄÃüÁî
+3.æ€»ç»“linuxç³»ç»Ÿä¸­å¸¸ç”¨çš„å‘½ä»¤
 
-4.¼òÊöÔÚlinuxÏµÍ³ÖÐÈçºÎÊµ¼ùnginx+tomcat¼¯Èº
+4.ç®€è¿°åœ¨linuxç³»ç»Ÿä¸­å¦‚ä½•å®žè·µnginx+tomcaté›†ç¾¤
 
-5.¼òÊöÐÔÄÜ²âÊÔ¡¢Ñ¹Á¦²âÊÔ¡¢²¢·¢²âÊÔ¡¢¸ºÔØ²âÊÔµÄÇø±ð
+5.ç®€è¿°æ€§èƒ½æµ‹è¯•ã€åŽ‹åŠ›æµ‹è¯•ã€å¹¶å‘æµ‹è¯•ã€è´Ÿè½½æµ‹è¯•çš„åŒºåˆ«
 
-6.¼òÊöÈçºÎÍ¨¹ýjmeter×ö×Ô¶¯»¯²âÊÔ
+6.ç®€è¿°å¦‚ä½•é€šè¿‡jmeteråšè‡ªåŠ¨åŒ–æµ‹è¯•
 
-7.¼òÊöÈçºÎÍ¨¹ýjmeter×öÐÔÄÜ²âÊÔ
+7.ç®€è¿°å¦‚ä½•é€šè¿‡jmeteråšæ€§èƒ½æµ‹è¯•
 
-8.¼òÊöjmeterÈçºÎ×ö²¢·¢²âÊÔ
+8.ç®€è¿°jmeterå¦‚ä½•åšå¹¶å‘æµ‹è¯•
 
-9.¼òÊöjmeterµÄ¶ÏÑÔ¡¢½Å±¾¹ØÁªµÄ²Ù×÷²½Öè
+9.ç®€è¿°jmeterçš„æ–­è¨€ã€è„šæœ¬å…³è”çš„æ“ä½œæ­¥éª¤
 
-10.¼òÊöjmeterÈçºÎ×öÐÔÄÜ·ÖÎö
+10.ç®€è¿°jmeterå¦‚ä½•åšæ€§èƒ½åˆ†æž
