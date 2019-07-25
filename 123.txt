@@ -8,7 +8,7 @@
 7.python中元组合列表的区别
 8接口测试如何做的
 
-123456
+1234564521
 
 https://www.cnblogs.com/fnng/archive/2013/03/02/2940284.html
 
